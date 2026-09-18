@@ -1,6 +1,7 @@
-# Lab 2: Branching and Merging
+# Lab 2: Branching and Merging - PR example branch
 
 The main topic of this first lab activity is branching and merging in git.
+<i>This is a PR branch</i>
 
 ## Resources and Acknowledgements
 
