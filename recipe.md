@@ -58,9 +58,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 7. Let the cakes cool in their pans for 15 minutes, then transfer them to a wire rack to cool completely.
 
 8. Prepare the filling by combining the salted caramel sauce with the chopped toasted pecans.
-8. Prepare the filling by combining the raspberry preserves with the fresh raspberries.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
 9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the cocoa powder.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
@@ -69,8 +67,6 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with fresh raspberries.
 13. Decorate the cake with chocolate curls.
 
 14. Add a dusting of powdered sugar just before serving.
-14. Add a drizzle of salted caramel sauce just before serving.
